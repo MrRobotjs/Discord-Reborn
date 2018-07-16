@@ -4,6 +4,7 @@
 /* User Settings */
 :root {
     --theme-name: "Discord Reborn";
+    /* name of the theme */
     --online-color: #43b581;
     /* color for online status */
     --idle-color: #faa61a;
