@@ -40,6 +40,12 @@
     /* tertiary background color */
 }
 
+
+[class*="backdrop-"], [class*="appMount-"] {
+    background-size: cover !important;
+    background-position: center !important;
+}
+
 .chat, 
 .container-RYiLUQ, 
 .container-2OU7Cz,
