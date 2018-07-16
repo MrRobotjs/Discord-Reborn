@@ -3,8 +3,6 @@
 /*
 /* User Settings */
 :root {
-    --theme-name: "Discord Reborn";
-    /* name of the theme */
     --online-color: #43b581;
     /* color for online status */
     --idle-color: #faa61a;
@@ -28,6 +26,8 @@
     /* secondary background color */
     --tertiary-color: rgba(0,0,0,0.75);
     /* tertiary background color */
+    --theme-name: "Discord Reborn";
+    /* name of the theme */
 }
   
 /* Light Mode Settings */
@@ -39,6 +39,8 @@
     /* secondary background color */
     --tertiary-color: rgba(0,0,0,0.45);
     /* tertiary background color */
+    --theme-name: "Discord Enlightenment";
+    /* name of the theme */
 }
 
 
